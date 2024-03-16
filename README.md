@@ -1,4 +1,4 @@
-# SaveCaptcha
+# ZithiumCaptcha
 A simple plugin to display a gui with a randomized item which a user must click to close.
 
 # What is this for?
